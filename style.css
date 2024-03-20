@@ -1,0 +1,117 @@
+body
+{
+	background-color: lightgray;
+	font-family: applegothic, sans-serif;
+
+	
+}
+#p{
+	border: 1px solid black ;
+	text-align: center;
+	color: black;
+	style="border: 1px solid black;
+	color: orangered;
+	font-size: 30px;
+}
+
+.mainmenu {
+	text-align: center;
+	float:right;
+
+}
+.one_third {
+	background:#e1e8ed;
+	box-shadow: 1px 1px 0px rgba(0, 0, 0, 0.1), 1px -1px 0px #efefef;
+	border-bottom:3px solid transparent;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+}
+.boxthreeleft, .boxthreecenter, .boxthreeright {
+	padding:10px 20px 15px 20px;
+}
+.boxthreeleft
+{
+	height: 284px !important;
+}
+.boxthreeright
+{
+	height: 284px !important;
+}
+.boxthreecenter
+{
+	height: 284px !important;
+}
+#footer
+{
+	background:#626879;
+	padding:20px 0px;
+	/*border-top:5px solid #bfd6e4;*/
+	height: 61px;
+}
+#footer2
+{
+	background:#626879;
+	border-top:5px solid #bfd6e4	
+	height: 61px;
+	padding:10px 0px;
+}
+#footer_link , a:hover
+{
+	background: #626879;
+	border: 1px  solid black;
+	color: black;
+	padding: 5px;
+	width: 	130px;
+
+}
+header
+{
+	background: #6d8696;
+	padding-top: 10px;
+}
+#headbox{
+
+		width: 500px;
+		padding:8px;
+		border: 0px;
+		background-color:#626879;
+		position: relative;
+		left: 40px;
+		text-align: left;
+	}
+/* CSS FROM yevatekar.html file */
+
+			#DSSWORLD
+			{
+				color: orangered;
+			}
+			.list {
+				color: orangered;
+				text-align: center;
+			}
+			h1 {
+
+				text-align: center;
+				font-size: 50px;
+			}
+
+			a:link, a:visited
+			{
+				padding: 5px 10px;
+				font-size: 20px;
+				color: black;
+				background-color: orangered;
+				border: 2px solid black;
+				text-align: center;
+				display: inline;
+				width: 200px;
+			}
+			a:hover
+			{
+				background-color: lightgray;
+				color: orangered;
+			}
+			
